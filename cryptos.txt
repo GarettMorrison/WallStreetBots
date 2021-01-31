@@ -1,0 +1,5 @@
+ btc ,$btc,bitcoin,bit coin
+ eth ,$eth,ethereum,ether
+ ada ,$ada,cardano
+ xlm ,$xlm,stellar
+ doge ,$doge
